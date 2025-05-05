@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1xtQ3AW-nYQpBs8rsLF6OArSSC21khGj9/view?usp=sharing" alt="Welcome to Inring's GitHub!" width="100%">
+  <img src="https://github.com/eliasgirmah/Image/blob/main/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png" alt="Welcome to Inring's GitHub!" width="100%">
 </p>
 
 
