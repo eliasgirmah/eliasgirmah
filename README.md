@@ -1,50 +1,51 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/eliasgirmah/Image/blob/main/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png" alt="Welcome to Inring's GitHub!" width="100%">
+  <img src="https://github.com/eliasgirmah/Image/blob/main/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png" alt="Welcome to Elias Girma's GitHub!" width="100%">
 </p>
 
+#  Hi, I’m Elias Girma!
 
-#  Hi, I am Elias Girma!
-
-Welcome to my GitHub profile! I'm passionate about building smart, scalable, and meaningful solutions using technology.
+Welcome to my GitHub profile! I’m passionate about building smart, scalable, and meaningful solutions using technology.
 
 ---
 
 ##  About Me
-Hi, I'm Elias Girma, an IT Specialist transitioning into AI, Data Engineering, and Backend Web Development. I am passionate about creating systems that make a difference in various industries, especially health tech and education. Currently, I'm working on a variety of projects, including:
 
-- **AI-based EdTech Startup**: Supporting early childhood development using AI.
-- **Backend Development**: Building web-based systems, APIs, and services.
-- **Data Engineering**: Creating pipelines, models, and analytics solutions for better decision-making.
+Hi, I'm Elias Girma — an IT Specialist transitioning into AI, Data Engineering, and Backend Web Development. I'm dedicated to creating systems that drive positive change, particularly in **health tech** and **education**.
 
-You can find more about my learning journey, projects, and career progress on my [LinkedIn]([https://www.linkedin.com/in/elias-girma-155a09283/], [GitHub](https://github.com/eliasgirmah), and [Medium](https://medium.com/@eliasgirma.h).
+Currently, I'm working on a variety of projects including:
 
-I’m a learner in the **ProDev Backend** programs at **ALX Academy**.
+-  **AI-Based EdTech Startup** – Supporting early childhood development with AI-powered tools  
+-  **Backend Development** – Creating web applications, APIs, and backend services  
+-  **Data Engineering** – Developing data pipelines, models, and analytics tools for informed decision-making
 
-My journey started with a curiosity for how software works and grew into a deep interest in **backend development**, particularly building scalable and impactful systems in **Health** and **education**.
+I’m also a learner in the **ProDev Backend Program** at **ALX Academy**.
 
-### 💡 My Mission:
-> Build robust solutions that improve lives and create opportunities—especially in traditional sectors like health and education.
+My journey began with a deep curiosity about how software works and evolved into a passion for building scalable, impactful systems in traditional sectors.
 
----
-
-##  What I'm Working On  
-- 🏠 **Airbnb Clone App**: A booking app replica with user registration, listings, and booking logic
-- 💼 **E-learning Platform**: An interactive and feature-rich online learning system
-- 💼  **learning Manegment System Platform**: An interactive and feature-rich online learning system
-- 
----
-
-## Currently Learning
-
-- Backend development with **Python**, **Django**, **Flask**, **Node.js**
-- Database design & optimization using **MySQL**, **PostgreSQL**, **SQLite**
+###  My Mission:
+> Build robust solutions that improve lives and create opportunities—especially in health and education.
 
 ---
 
-## 🌍 Languages
-  
-- **Programming**: Python, PHP, JavaScript, HTML/CSS
+##  What I'm Working On
+
+- 🏠 **Airbnb Clone App** – A booking platform with user registration, listings, and booking logic  
+- 💼 **E-Learning Platform** – A feature-rich online education system  
+- 🎓 **Learning Management System (LMS)** – An interactive platform for structured digital learning  
+
+---
+
+##  Currently Learning
+
+- Backend development using **Python**, **Django**, **Flask**, and **Node.js**  
+- Database design & optimization with **MySQL**, **PostgreSQL**, and **SQLite**
+
+---
+
+## Languages
+
+- **Programming**: Python, PHP, JavaScript, HTML, CSS
 
 ---
 
@@ -57,35 +58,36 @@ HTML • CSS • JavaScript • Python • PHP
 Django • Flask • Bootstrap • TailwindCSS
 
 ### 🛢 Databases  
-MySQL • PostgreSQL  • SQLite
+MySQL • PostgreSQL • SQLite • ClickHouse (for analytics)
 
-### 🌐 Tools & Platforms  
-Git • GitHub  • Postman
+### ⚙️ Tools & Platforms  
+Git • GitHub • Postman • Docker • NGINX
 
-### 🎨 Other Skills  
-PowerBI, SuperSet (for Data Analysis) 
+### 📊 Data Tools  
+Power BI • Apache Superset
 
 ---
 
-## Featured Projects
+##  Featured Projects
 
-### 🎓 AI EdTech Platform 
-Building a smart learning platform that uses AI to deliver personalized education experiences for kids, with a focus on engagement and adaptive learning. 
-**Tech Stack**: Python, Django, MySQL, ClickHouse (for analytics), SQLite (for local development), HTML, CSS, JavaScript, Bootstrap, TensorFlow, scikit-learn, OpenAI API  
-**Role**: Backend Developer & API Integration
+### 🎓 AI EdTech Platform  
+Smart learning for kids using AI, personalized education, and adaptive content.  
+**Tech Stack**: Python, Django, MySQL, ClickHouse, SQLite, HTML/CSS/JS, Bootstrap, TensorFlow, scikit-learn, OpenAI API  
+**Role**: Backend Developer & API Integrator
 
 ### 🏠 Airbnb Clone App  
-A clone of Airbnb with signup, listing, and booking features.  
+A web-based clone of Airbnb with full booking logic and user interaction.  
 **Tech Stack**: Python, Django, MySQL  
 **Role**: Backend Developer
 
 ---
 
-## 📫 Get in Touch
+##  Let’s Connect
 
-- 📧 Email: [eliasgirma.h@gmail.com](mailto:armelurich16@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/ulricharmel](https://linkedin.com/in/elias-girma-155a09283)  
-- 🧑‍💻 GitHub: [Ulricharmel001](https://github.com/eliasgirmah)
+- 📧 Email: [eliasgirma.h@gmail.com](mailto:eliasgirma.h@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/elias-girma-155a09283](https://linkedin.com/in/elias-girma-155a09283)  
+- 🧑‍💻 GitHub: [eliasgirmah](https://github.com/eliasgirmah)  
+- 📝 Medium: [medium.com/@eliasgirma.h](https://medium.com/@eliasgirma.h)
 
 ---
 
