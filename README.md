@@ -3,91 +3,76 @@
   <img src="https://github.com/eliasgirmah/Image/blob/main/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png" alt="Welcome to Elias Girma's GitHub!" width="100%">
 </p>
 
-#  Hi, I’m Elias Girma!
-
-Welcome to my GitHub profile! I’m passionate about building smart, scalable, and meaningful solutions using technology.
-
----
-
-##  About Me
-
-Hi, I'm Elias Girma — an IT Specialist transitioning into AI, Data Engineering, and Backend Web Development. I'm dedicated to creating systems that drive positive change, particularly in **health tech** and **education**.
-
-Currently, I'm working on a variety of projects including:
-
--  **AI-Based EdTech Startup** – Supporting early childhood development with AI-powered tools  
--  **Backend Development** – Creating web applications, APIs, and backend services  
--  **Data Engineering** – Developing data pipelines, models, and analytics tools for informed decision-making
-
-I’m also a learner in the **ProDev Backend Program** at **ALX Academy**.
-
-My journey began with a deep curiosity about how software works and evolved into a passion for building scalable, impactful systems in traditional sectors.
-
-###  My Mission:
-> Build robust solutions that improve lives and create opportunities—especially in health and education.
+<h1 align="center">Hi there 👋, I'm Elias Girma</h1>
+<h3 align="center">Backend Developer | DevOps Enthusiast | AI & Data Explorer</h3>
 
 ---
 
-##  What I'm Working On
+### 🚀 About Me
 
-- 🏠 **Airbnb Clone App** – A booking platform with user registration, listings, and booking logic  
-- 💼 **E-Learning Platform** – A feature-rich online education system  
-- 🎓 **Learning Management System (LMS)** – An interactive platform for structured digital learning  
+<p align="justify">
+  I'm currently learning <b>Backend Software Engineering</b> through the <a href="https://www.alxafrica.com/">ALX Program</a>, sharpening my skills in Python, Django, Java, REST APIs, and DevOps tools like Docker and CI/CD.
+</p>
 
----
+<p align="justify">
+  💡 I started my journey in software engineering because “I’ve always loved solving complex problems and building tools that make life easier.”
+</p>
 
-##  Currently Learning
+<p align="justify">
+  🎯 My goal is to build scalable backend systems that power AI-driven applications and contribute to open-source solutions that create real-world impact.
+</p>
 
-- Backend development using **Python**, **Django**, **Flask**, and **Node.js**  
-- Database design & optimization with **MySQL**, **PostgreSQL**, and **SQLite**
-
----
-
-## Languages
-
-- **Programming**: Python, PHP, JavaScript, HTML, CSS
-
----
-
-## 💼 Technical Skills
-
-### 👨‍💻 Languages  
-HTML • CSS • JavaScript • Python • PHP
-
-### 🧱 Frameworks & Libraries  
-Django • Flask • Bootstrap • TailwindCSS
-
-### 🛢 Databases  
-MySQL • PostgreSQL • SQLite • ClickHouse (for analytics)
-
-### ⚙️ Tools & Platforms  
-Git • GitHub • Postman • Docker • NGINX
-
-### 📊 Data Tools  
-Power BI • Apache Superset
+<p align="justify">
+  🔭 I'm passionate about working on backend APIs, data platforms, infrastructure automation, and smart systems that connect data with purpose.
+</p>
 
 ---
 
-##  Featured Projects
+### 🛠️ Tech Stack
 
-### 🎓 AI EdTech Platform  
-Smart learning for kids using AI, personalized education, and adaptive content.  
-**Tech Stack**: Python, Django, MySQL, ClickHouse, SQLite, HTML/CSS/JS, Bootstrap, TensorFlow, scikit-learn, OpenAI API  
-**Role**: Backend Developer & API Integrator
-
-### 🏠 Airbnb Clone App  
-A web-based clone of Airbnb with full booking logic and user interaction.  
-**Tech Stack**: Python, Django, MySQL  
-**Role**: Backend Developer
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-##  Let’s Connect
+### 📂 Featured Projects
+
+- 💻 **[Airbnb Clone Project]** — *Brief one-line description*  
+  🔗 [GitHub Repo](https://github.com/eliasgirmah/airbnb-clone-project) | 🛠️ `Python` `Django` `Docker`
+
+- 📊 **[Fraud Detection Project]** — *Brief one-line description*  
+  🔗 [GitHub Repo](#https://github.com/eliasgirmah/fraud_detection_project) | 🛠️ `Data Engineering` `ETL` `SQL`
+
+- 🧠 **[Image segmentation using new_CLIPSeg]** — *Brief one-line description*  
+  🔗 [GitHub Repo](#https://github.com/eliasgirmah/new_CLIPSeg) | 🛠️ `Machine Learning` `Python` 'CLIPSeg'
+
+---
+
+### 📫 Let's Connect
 
 - 📧 Email: [eliasgirma.h@gmail.com](mailto:eliasgirma.h@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/elias-girma-155a09283](https://linkedin.com/in/elias-girma-155a09283)  
 - 🧑‍💻 GitHub: [eliasgirmah](https://github.com/eliasgirmah)  
 - 📝 Medium: [medium.com/@eliasgirma.h](https://medium.com/@eliasgirma.h)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliasgirmah&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliasgirmah&theme=radical"/>
+</p>
+
+
 
 ---
 
