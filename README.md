@@ -15,7 +15,7 @@
 </p>
 
 <p align="justify">
-  💡 I started my journey in software engineering because “I’ve always loved solving complex problems and building tools that make life easier.”
+  💡 I started my journey in software engineering because I’ve always loved solving complex problems and building tools that make life easier.
 </p>
 
 <p align="justify">
@@ -48,10 +48,10 @@
   🔗 [GitHub Repo](https://github.com/eliasgirmah/airbnb-clone-project) | 🛠️ `Python` `Django` `Docker`
 
 - 📊 **[Fraud Detection Project]** — *Brief one-line description*  
-  🔗 [GitHub Repo](#https://github.com/eliasgirmah/fraud_detection_project) | 🛠️ `Data Engineering` `ETL` `SQL`
+  🔗 [GitHub Repo](https://github.com/eliasgirmah/fraud_detection_project) | 🛠️ `Data Engineering` `ETL` `SQL`
 
 - 🧠 **[Image segmentation using new_CLIPSeg]** — *Brief one-line description*  
-  🔗 [GitHub Repo](#https://github.com/eliasgirmah/new_CLIPSeg) | 🛠️ `Machine Learning` `Python` 'CLIPSeg'
+  🔗 [GitHub Repo](https://github.com/eliasgirmah/new_CLIPSeg) | 🛠️ `Machine Learning` `Python` `CLIPSeg`
 
 ---
 
